@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="269" viewBox="0 0 250 269">
+  <g id="bottom_right" transform="translate(-201 -713)">
+    <g id="Circle_3" transform="translate(201 732)">
+      <circle id="Ellipse_gps_light" cx="125" cy="125" r="125" fill="#fe5000" fill-opacity="0.19"/>
+      <path id="Ellipse_gps_light-2" data-name="Ellipse_gps_light" d="M80,0A80,80,0,1,1,0,80,80,80,0,0,1,80,0Z" transform="translate(45 45)" fill="#fe5000" fill-opacity="0.38"/>
+      <circle id="Ellipse_gps_dark" cx="60" cy="60" r="60" transform="translate(65 65)" fill="#fe5000"/>
+    </g>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(398 716)">
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="16" cy="16" r="16" fill="#fe5000"/>
+    </g>
+    <g id="Component_8_1" data-name="Component 8 – 1" transform="translate(378 726)">
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="6" cy="6" r="6" fill="#fe5000"/>
+    </g>
+    <g id="Component_9_1" data-name="Component 9 – 1" transform="translate(390 713)">
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="3" cy="3" r="3" fill="#fe5000"/>
+    </g>
+  </g>
+</svg>

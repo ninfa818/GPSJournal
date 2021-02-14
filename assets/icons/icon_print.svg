@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="20" viewBox="0 0 26 20">
+  <g id="Print_icon" transform="translate(-4736 -994)">
+    <g id="Group_49" data-name="Group 49" transform="translate(0 8)">
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M18,10H0V0H18V10ZM1,1V9H17V1Z" transform="translate(4740 996)" fill="#fe5804"/>
+      <g id="Group_47" data-name="Group 47">
+        <rect id="Rectangle_42" data-name="Rectangle 42" width="10" height="1" transform="translate(4744 998)" fill="#fe5804"/>
+        <rect id="Rectangle_43" data-name="Rectangle 43" width="5" height="1" transform="translate(4744 1000)" fill="#fe5804"/>
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="9" height="1" transform="translate(4744 1002)" fill="#fe5804"/>
+      </g>
+    </g>
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M4,17.5H2a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2H5v1H2a1,1,0,0,0-1,1v8a1,1,0,0,0,1,1H4v1Zm20,0H22v-1h2a1,1,0,0,0,1-1v-8a1,1,0,0,0-1-1H21v-1h3a2,2,0,0,1,2,2v8A2,2,0,0,1,24,17.5Z" transform="translate(4736 993)" fill="#fe5804"/>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="0.75" cy="0.75" r="0.75" transform="translate(4757 1001)" fill="#fe5804"/>
+    <path id="Subtraction_6" data-name="Subtraction 6" d="M16,7H0V0H16V7ZM1,1V6H15V1Z" transform="translate(4741 994)" fill="#fe5804"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181.206" height="168.604" viewBox="0 0 181.206 168.604">
+  <g id="Elipse_middle" transform="translate(-82.068 -176.944)">
+    <g id="Group_13" data-name="Group 13" transform="translate(82.068 176.944)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.373" cy="4.373" r="4.373" transform="matrix(0.208, 0.978, -0.978, 0.208, 8.556, 5.792)" fill="#fe5000"/>
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="1.093" cy="1.093" r="1.093" transform="matrix(0.208, 0.978, -0.978, 0.208, 3.998, 1.128)" fill="#fe5000"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="1.093" cy="1.093" r="1.093" transform="matrix(0.208, 0.978, -0.978, 0.208, 11.436, 0)" fill="#fe5000"/>
+    </g>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="2.5" cy="2.5" r="2.5" transform="translate(258.273 179.644)" fill="#fe5000"/>
+    <g id="Group_12" data-name="Group 12" transform="matrix(0.53, -0.848, 0.848, 0.53, 225.872, 341.3)">
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="4.009" cy="4.009" r="4.009" transform="translate(0 0)" fill="#fe5000"/>
+    </g>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(108.273 334.644)" fill="#fe5000"/>
+  </g>
+</svg>
